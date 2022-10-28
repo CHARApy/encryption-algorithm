@@ -1,0 +1,7 @@
+from EA import *
+
+mingwen = Code()
+mingwen.run(message='abc', key=20, if_save=True)
+
+mima = DeCode()
+mima.run(message='auhiko auhiko gheiau |auhiko auhiko tuoirp |auhiko auhiko qghuio ', key=20, if_save=True)
